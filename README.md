@@ -11,8 +11,9 @@
 <p><b>Model Building Techniques:</b>Classification and Regression Algorithms, Ensemble Methods, ANN, CNN, RNN, LSTM, Model Evalualtion Metrics</p>
 <p><b>Other tools: </b>PowerBI, Excels, PowerPoint Presentation
 </ul>
-
+<hr/>
 <p align ="center">✌️ I have the capability to work with any type of data such as <b>Text</b>, <b>Speech</b>,<b>Tables</b> or <b>Images</b>
+<hr/>
 <p>Find me online Here</p>
 <p>
 <a href="https://www.linkedin.com/in/amitjha11/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
