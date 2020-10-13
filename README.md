@@ -13,5 +13,8 @@
 </ul>
 
 <p align ="center">✌️ I have the capability to work with any type of data such as <b>Text</b>, <b>Speech</b>,<b>Tables</b> or <b>Images</b>
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+<p>Find me online Here</p>
+<p>
+<a href="https://www.linkedin.com/in/amitjha11/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/amitarcade50"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+</p>
