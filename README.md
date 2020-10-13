@@ -13,3 +13,5 @@
 </ul>
 
 <p align ="center">✌️ I have the capability to work with any type of data such as <b>Text</b>, <b>Speech</b>,<b>Tables</b> or <b>Images</b>
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
