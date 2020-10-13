@@ -1,1 +1,1 @@
-<h2 allign='center'>Hi Everyone 👋🤓! My Name is Amit Kumar</h2>
+<h2 allign='center'>Hi Everyone 👋 :sun_with_face:! My Name is Amit Kumar</h2>
