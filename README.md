@@ -15,7 +15,7 @@
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
-[![lindedin](https://github.com/amitjha11/amitjha11/blob/master/images/icontexto-user-web20-linkedin.ico)
+[![lindedin](https://github.com/amitjha11/amitjha11/blob/master/images/icontexto-user-web20-linkedin.ico)]
 <!-- To Link your profile to the media buttons -->
 [2]: https://www.instagram.com/amit__jha11
 [3]: https://www.twitter.com/amitarcade50
