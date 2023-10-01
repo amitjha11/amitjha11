@@ -5,17 +5,16 @@
 <h3>Things I am good at 💥</h3>
 <ul>
 <p><b>Language:</b> Python, SQL, HTML, CSS, JavaScript</p>
-<p><b>Frameworks:</b> Flask, ReactJs, Bootstrap</p>
+<p><b>Frameworks:</b> Flask, Bootstrap</p>
 <p><b>Libraries:</b>Pandas, Numpy, Matplotlib, Seaborn,  Scikit-Learn, NLTK, Tensorflow, Keras, Lambda Function, and Many More...
 <p><b>Data Analytics:</b>Exploratory Data Analysis, Natural Language Processing, Image Processing, Speech Data Processing using Strong Statistical Foundation, Data Wrangling and Data Visualization</p>
 <p><b>Model Building Techniques:</b>Classification and Regression Algorithms, Ensemble Methods, ANN, CNN, RNN, LSTM, Model Evalualtion Metrics</p>
 <p><b>Other tools: </b>PowerBI, Excels, PowerPoint Presentation
 </ul>
-<hr/>
-<p align ="center">✌️ I have the capability to work with any type of data such as <b>Text</b>, <b>Speech</b>,<b>Tables</b> or <b>Images</b>
-<hr/>
 <p><b>Find me online Here:</b></p>
 <p>
-<a href="https://www.linkedin.com/in/amitjha11/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<a href="https://twitter.com/amitarcade50"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amitjha11/"><img height="30" src="![image](https://github.com/amitjha11/amitjha11/assets/42715971/b16798cc-34ba-4d77-852c-6c74491caae5)
+"></a>
+<a href="https://twitter.com/amitarcade50"><img height="30" src="![image](https://github.com/amitjha11/amitjha11/assets/42715971/263722e6-1e0d-46b7-9f6f-bd38b03a0f58)
+"></a>&nbsp;&nbsp;
 </p>
