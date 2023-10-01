@@ -1,7 +1,4 @@
 <h2 align='center'>Hello Everybody, My Name is Amit Kumar 👋</h2>
-<p align='center'>I have completed my Master's in Computer Application (MCA) from <b>Pondicherry University</b> in 2020 I am currently passionate about Data Science, Machine Learning and Deep Learning</p>
-<hr/>
-<p align = 'center'>
 <h3>Skills</h3>
 <ul>
 <p><b>Language:</b> Python, SQL, HTML, CSS, JavaScript</p>
