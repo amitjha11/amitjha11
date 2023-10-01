@@ -13,8 +13,7 @@
 </ul>
 <p><b>Find me online Here:</b></p>
 <p>
-<a href="https://www.linkedin.com/in/amitjha11/"><img height="30" src="![image](https://github.com/amitjha11/amitjha11/assets/42715971/b16798cc-34ba-4d77-852c-6c74491caae5)
-"></a>
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Ruslan Babkin - Flaticon</a>
 <a href="https://twitter.com/amitarcade50"><img height="30" src="![image](https://github.com/amitjha11/amitjha11/assets/42715971/263722e6-1e0d-46b7-9f6f-bd38b03a0f58)
 "></a>&nbsp;&nbsp;
 </p>
