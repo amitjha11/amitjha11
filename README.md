@@ -2,7 +2,7 @@
 <p align='center'>I have completed my Master's in Computer Application (MCA) from <b>Pondicherry University</b> in 2020 I am currently passionate about Data Science, Machine Learning and Deep Learning</p>
 <hr/>
 <p align = 'center'>
-<h3>Things I am good at 💥</h3>
+<h3>Skills</h3>
 <ul>
 <p><b>Language:</b> Python, SQL, HTML, CSS, JavaScript</p>
 <p><b>Frameworks:</b> Flask, Bootstrap</p>
