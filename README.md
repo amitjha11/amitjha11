@@ -14,6 +14,6 @@
 <p><b>Find me online Here:</b></p>
 <p>
 
-<a href="https://twitter.com/amitarcade50"><img height="30" src="![image](https://github.com/amitjha11/amitjha11/assets/42715971/263722e6-1e0d-46b7-9f6f-bd38b03a0f58)
-"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/amitarcade50"><img height="30" src="[![image](https://github.com/amitjha11/amitjha11/assets/42715971/263722e6-1e0d-46b7-9f6f-bd38b03a0f58)
+](https://github.com/amitjha11/amitjha11/blob/master/images/twitter.png)https://github.com/amitjha11/amitjha11/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
 </p>
