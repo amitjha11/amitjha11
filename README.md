@@ -8,10 +8,8 @@
 <p><b>Model Building Techniques:</b>Classification and Regression Algorithms, Ensemble Methods, ANN, CNN, RNN, LSTM, Model Evalualtion Metrics</p>
 <p><b>Other tools: </b>PowerBI, Excels, PowerPoint Presentation
 </ul>
-
-<!-- display the social media buttons in your README -->
-
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+<center>
+  [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
@@ -20,3 +18,5 @@
 [3]: https://www.twitter.com/amitarcade50
 [4]: https://www.linkedin.com/in/amitjha11
 [5]: https://www.github.com/amitjha11
+</center>
+
