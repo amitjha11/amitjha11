@@ -3,5 +3,6 @@
 <ul>
 <p><b>Language:</b> Python, SQL, HTML, CSS, JavaScript</p>
 <p><b>Libraries:</b>Pandas, Numpy, Matplotlib, Seaborn,  Scikit-Learn, NLTK, Tensorflow, Keras, Lambda Function, and Many More...</p>
-<p><b>Other tools: </b>PowerBI, Excels, PowerPoint Presentation</p>
+<p><b>Database tools:</b> SQL Server, MySQL</p>
+<p><b>Other tools: </b>PowerBI, Excels, O365</p>
 </ul>
