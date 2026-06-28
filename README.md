@@ -1,4 +1,4 @@
-<h2 align='center'>Hello Everybody, My Name is Amit Kumar 👋</h2>
+<h2 align='center'>Hello Everybody, My Name is Amit, Thank you for visiting my GitHub Profile. 👋</h2>
 <h3>Skills</h3>
 <ul>
 <p><b>Language:</b> Python, SQL, HTML, CSS, JavaScript</p>
